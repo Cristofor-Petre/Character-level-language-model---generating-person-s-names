@@ -1,0 +1,1 @@
+### Music genre recognition using lyrics (text) as input features. For this project I've experimented with different algorithms such as Naive Bayes classifier or Convolutional Neural Networks (CNN) trained with several types of features (TF-IDF, BOW, Word Embeddings).
